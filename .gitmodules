@@ -1,0 +1,7 @@
+[submodule "src/3rdparty/phpquery"]
+	path = src/3rdparty/phpquery
+	url = git://github.com/ShaneMcC/phpQuery.git
+[submodule "src/3rdparty/simpletest"]
+	path = src/3rdparty/simpletest
+	url = git://github.com/ShaneMcC/SimpleTest.git
+	branch = shane
